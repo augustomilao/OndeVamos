@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(153, 1, 32);
+    color: whitesmoke;
+}
+.centro{
+    text-align: center;
+    padding: 20% 0;
+    background-color: rgb(139, 9, 9);
+    border-radius: 9px;
+}
+.botão{
+    height: 50px;
+    width: 20%;
+    border-radius: 9px;
+    color: whitesmoke;
+    background-color: crimson;
+    border: 2px solid crimson;
+}
+.botão:hover{
+    border: 2px solid white;
+    background-color: white;
+    color: crimson;
+}
+
+/* Celular agr */
